@@ -102,7 +102,7 @@
       veinsPerChunk: 2
       minYHeight: 32
       maxYHeight: 128
-      shouldSpawn: true
+      shouldSpawn: false
     }
   ]
   neatherOres:
