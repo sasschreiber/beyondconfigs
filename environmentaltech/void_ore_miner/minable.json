@@ -2,12 +2,6 @@
   "items": [],
   "blocks": [
     {
-      "id": "rftools:dimensional_shard_ore",
-      "meta": 0,
-      "focusColor": "white",
-      "weight": 4
-    },
-    {
       "id": "mysticalagriculture:inferium_ore",
       "meta": 0,
       "focusColor": "green",
@@ -134,12 +128,7 @@
     {
       "oreName": "orePlatinum",
       "focusColor": "light_blue",
-      "weight": 6
-    },
-    {
-      "oreName": "oreMithril",
-      "focusColor": "light_blue",
-      "weight": 6
+      "weight": 1
     },
     {
       "oreName": "oreSulfur",
@@ -157,19 +146,14 @@
       "weight": 8
     },
     {
-      "oreName": "oreFirestone",
-      "focusColor": "red",
-      "weight": 4
-    },
-    {
       "oreName": "oreCobalt",
       "focusColor": "blue",
-      "weight": 7
+      "weight": 2
     },
     {
       "oreName": "oreArdite",
       "focusColor": "orange",
-      "weight": 7
+      "weight": 2
     },
     {
       "oreName": "oreApatite",
@@ -179,7 +163,7 @@
     {
       "oreName": "oreDraconium",
       "focusColor": "purple",
-      "weight": 6
+      "weight": 2
     },
     {
       "oreName": "oreGraphite",
@@ -187,24 +171,19 @@
       "weight": 12
     },
     {
-      "oreName": "oreQuartzBlack",
-      "focusColor": "black",
-      "weight": 14
-    },
-    {
       "oreName": "oreRuby",
       "focusColor": "red",
-      "weight": 8
+      "weight": 4
     },
     {
       "oreName": "orePeridot",
       "focusColor": "green",
-      "weight": 6
+      "weight": 4
     },
     {
       "oreName": "oreTopaz",
       "focusColor": "orange",
-      "weight": 6
+      "weight": 4
     },
     {
       "oreName": "oreTanzanite",
@@ -219,12 +198,12 @@
     {
       "oreName": "oreSapphire",
       "focusColor": "blue",
-      "weight": 6
+      "weight": 4
     },
     {
       "oreName": "oreGarnet",
       "focusColor": "orange",
-      "weight": 6
+      "weight": 4
     },
     {
       "oreName": "oreHeliodore",
@@ -314,7 +293,7 @@
     {
       "oreName": "oreMoonstone",
       "focusColor": "cyan",
-      "weight": 6
+      "weight": 2
     },
     {
       "oreName": "oreBlueTopaz",
@@ -369,12 +348,12 @@
     {
       "oreName": "oreIridium",
       "focusColor": "white",
-      "weight": 6
+      "weight": 1
     },
     {
       "oreName": "oreTungsten",
       "focusColor": "black",
-      "weight": 8
+      "weight": 2
     },
     {
       "oreName": "oreOsmium",
